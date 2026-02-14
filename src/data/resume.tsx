@@ -15,9 +15,9 @@ import { Csharp } from "@/components/ui/svgs/csharp";
 export const DATA = {
   name: "Fuad Abdala",
   initials: "FA",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "",
+  location: "Ethiopia, Dire Dawa",
+  locationLink: "https://www.google.com/maps/place/Ethiopia",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
@@ -32,7 +32,6 @@ export const DATA = {
     { name: "Go", icon: Golang },
     { name: "Postgres", icon: Postgresql },
     { name: "Docker", icon: Docker },
-    { name: "Kubernetes", icon: Kubernetes },
     { name: "Java", icon: Java },
     { name: "C++", icon: Csharp },
   ],
@@ -41,12 +40,12 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "fuadabdala.sh@ddu.edu.et",
+    tel: "+251901547689",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/fuad-266",
         icon: Icons.github,
         navbar: true,
       },
