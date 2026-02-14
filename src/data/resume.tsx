@@ -21,7 +21,7 @@ export const DATA = {
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on telegram.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "I’m a software engineering student who learns by building real projects and reverse-engineering modern websites. I’ve worked with Node.js, Express, MongoDB, and MySQL, and I enjoy understanding how things work under the hood — from authentication to debugging and security. Lately, I’ve been focused on creating clean user interfaces and full-stack applications using modern tools and AI-assisted workflows.",
   avatarUrl: "/me.png",
   skills: [
     { name: "React", icon: ReactLight },
