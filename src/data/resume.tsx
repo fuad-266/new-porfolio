@@ -15,11 +15,11 @@ import { Csharp } from "@/components/ui/svgs/csharp";
 export const DATA = {
   name: "Fuad Abdala",
   initials: "FA",
-  url: "",
+  url: "https://dillion.io",
   location: "Ethiopia, Dire Dawa",
   locationLink: "https://www.google.com/maps/place/Ethiopia",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on telegram.",
   summary:
     "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
   avatarUrl: "/me.png",
@@ -52,30 +52,30 @@ export const DATA = {
 
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://linkedin.com/in/fuad266/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://x.com/fuad266",
         icon: Icons.x,
 
         navbar: true,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
+      Telegram: {
+        name: "Telegram",
+        url: "https://t.me/fuad266",
+        icon: Icons.telegram,
         navbar: true,
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:fuadabdala.sh@ddu.edu.et",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
