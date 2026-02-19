@@ -99,7 +99,7 @@ export const DATA = {
       location: "Dire Dawa University",
       description:
         "I participated in a hackathon focused on e-commerce personalization and customer experience. The event brought together students and professionals to collaborate on innovative solutions for enhancing online shopping and customer engagement.",
-      image: "",
+      image: "/venturemeda.png",
       links: [],
     },
     {
