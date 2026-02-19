@@ -92,5 +92,24 @@ export const DATA = {
     },
   ],
   projects: [],
-  hackathons: [],
+  hackathons: [
+    {
+      title: "E-Commerce: Personalization and Customer Experience",
+      dates: "Oct 31st - Nov 2nd, 2024",
+      location: "Dire Dawa University",
+      description:
+        "I participated in a hackathon focused on e-commerce personalization and customer experience. The event brought together students and professionals to collaborate on innovative solutions for enhancing online shopping and customer engagement.",
+      image: "",
+      links: [],
+    },
+    {
+      title: "E-Learning Platform",
+      dates: "April 30 - May 3, 2025",
+      location: "Dire Dawa University",
+      description:
+        "Developed an e-learning platform in Dire Dawa University. The platform allows students to access course materials, assignments, and quizzes online.",
+      image: "",
+      links: [],
+    },
+  ],
 } as const;
