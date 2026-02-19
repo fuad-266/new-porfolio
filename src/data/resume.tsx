@@ -111,4 +111,4 @@ export const DATA = {
       links: [],
     },
   ],
-} as const;
+} satisfies Record<string, unknown>;
