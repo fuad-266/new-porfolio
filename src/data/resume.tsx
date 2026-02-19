@@ -37,7 +37,6 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "fuadabdala.sh@ddu.edu.et",
@@ -108,7 +107,7 @@ export const DATA = {
       location: "Dire Dawa University",
       description:
         "Developed an e-learning platform in Dire Dawa University. The platform allows students to access course materials, assignments, and quizzes online.",
-      image: "/ddu.png",
+      image: "/venturemeda.png",
       links: [],
     },
   ],
