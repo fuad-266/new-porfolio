@@ -86,7 +86,7 @@ export const DATA = {
       school: "Dire Dawa University",
       href: "https://www.ddu.edu.et",
       degree: "Software Engineering",
-      logoUrl: "",
+      logoUrl: "/ddu.png",
       start: "2021",
       end: "Present",
     },
@@ -108,7 +108,7 @@ export const DATA = {
       location: "Dire Dawa University",
       description:
         "Developed an e-learning platform in Dire Dawa University. The platform allows students to access course materials, assignments, and quizzes online.",
-      image: "",
+      image: "/ddu.png",
       links: [],
     },
   ],
